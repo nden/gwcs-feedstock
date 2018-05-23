@@ -1,5 +1,5 @@
 {% set name = "gwcs" %}
-{% set version = "0.7" %}
+{% set version = "0.9.0" %}
 {% set hash_type = "sha256" %}
 {% set hash_value = "74430b7c3ccd1a43ab6b59ea83272d67755705652ea5475108b0b125875739cb" %}
 
