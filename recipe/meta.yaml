@@ -1,7 +1,7 @@
 {% set name = "gwcs" %}
-{% set version = "0.9.0" %}
+{% set version = "0.9.1" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "74430b7c3ccd1a43ab6b59ea83272d67755705652ea5475108b0b125875739cb" %}
+{% set hash_value = "fdf6d4e408da85436d491a4a3bd93b9f64d7d1575f47e172091497ce89cec6ff" %}
 
 package:
   name: '{{ name|lower }}'
